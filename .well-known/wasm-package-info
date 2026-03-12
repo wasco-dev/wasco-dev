@@ -1,0 +1,10 @@
+{
+  "v1": {
+    "registries": [
+      {
+        "type": "oci",
+        "url": "https://ghcr.io/wasco-dev/wasm-pkg"
+      }
+    ]
+  }
+}
