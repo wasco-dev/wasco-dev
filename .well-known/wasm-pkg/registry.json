@@ -1,4 +1,10 @@
 {
-    "preferredProtocol": "oci",
-    "oci": {"registry": "ghcr.io", "namespacePrefix": ""}
+  "v1": {
+    "registries": [
+      {
+        "type": "oci",
+        "url": "https://ghcr.io/wasco-dev/wasm-pkg"
+      }
+    ]
+  }
 }
