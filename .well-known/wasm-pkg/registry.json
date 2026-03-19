@@ -2,6 +2,6 @@
   "preferredProtocol": "oci",
   "oci": {
     "registry": "ghcr.io",
-    "namespacePrefix": "wasm-pkg"
+    "namespacePrefix": ""
   }
 }
