@@ -27,9 +27,9 @@ Don't worr if you see warnings or extra information.
 
 ## Using tooling
 Now that we have the wash CLI we can get the WASM file for our component. Simply go to the GitHub page for the component you want to download like https://github.com/wasco-dev/glyphic-api and look at the right-hand side and look for the text "packages".
-![[assets/repo-packages.png]]
+![alt text](https://github.com/wasco-dev/wasco-dev/raw/main/assets/repo-packages.png "GitHub repo")
 You should be able to click on the "packages" text and it will redirect you to a page with all the available components, this is usually one per page.
-![[assets/packages.png]]
+![alt text](https://github.com/wasco-dev/wasco-dev/raw/main/assets/packages.png "GitHub package registry")
 If the "packages" says "No packages published" below it, then please request the component author to upload their component to the GitHub package registry.
 Here you can click again on the specific component you want the WASM file for and you'll be brought to a page where you can see all the versions of a component and an example on how to "pull" it. The way of pulling the component that is presented will not give you a WASM file, instead do:
 ```Bash
